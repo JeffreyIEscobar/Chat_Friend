@@ -14,6 +14,7 @@ Chat Friend is a simple chatbot web application created for fun, learning, and e
 ```python
 # Set your OpenAI API key
 openai.api_key = "YOUR_API_KEY_HERE"
+```
 
 ## Features
 
