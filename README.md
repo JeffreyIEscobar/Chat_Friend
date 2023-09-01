@@ -7,7 +7,7 @@ This is a simple chatbot web application created for fun and learning purposes. 
 1. Clone this repository to your local machine.
 2. Open the `index.html` file in a web browser.
 3. Type your message in the input field and click the "Send" button.
-4. Enjoy chatting with the chatbot!
+4. Enjoy chatting with chat friend!
 
 ## Features
 
