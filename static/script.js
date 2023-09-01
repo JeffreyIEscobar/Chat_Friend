@@ -1,10 +1,10 @@
 // Get references to HTML elements
-const userInput = document.getElementById('user-input');
-const sendButton = document.getElementById('send-button');
+const userInput = document.querySelector('input[type="text"]'); // Updated this line
+const button = document.querySelector('button'); // Updated this line
 const chatContainer = document.querySelector('.chat');
 
 // Add event listener to the send button
-sendButton.addEventListener('click', sendMessage);
+button.addEventListener('click', sendMessage); // Updated this line
 
 // Function to send a message
 function sendMessage() {
