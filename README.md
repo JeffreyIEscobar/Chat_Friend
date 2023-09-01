@@ -1,13 +1,19 @@
 # Chat Friend
 
-This is a simple chatbot web application created for fun and learning purposes. It allows you to interact with a chatbot and see its responses.
+Chat Friend is a simple chatbot web application created for fun, learning, and experimentation. It allows you to interact with a chatbot and see its responses.
 
 ## Usage
 
 1. Clone this repository to your local machine.
 2. Open the `index.html` file in a web browser.
 3. Type your message in the input field and click the "Send" button.
-4. Enjoy chatting with chat friend!
+4. Enjoy chatting with the chatbot!
+
+**Note:** Before using the application, you need to update the OpenAI API key in the `chatbot.py` file with your own valid API key.
+
+```python
+# Set your OpenAI API key
+openai.api_key = "YOUR_API_KEY_HERE"
 
 ## Features
 
