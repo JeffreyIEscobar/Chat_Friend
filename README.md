@@ -30,7 +30,7 @@ openai.api_key = "YOUR_API_KEY_HERE"
 
 ## Contributing
 
-Contributions are not currently accepted for this project, as it is intended for personal use and learning.
+Feel free to make this project better! Contributions are welcomed and encouraged. If you have any improvements, bug fixes, or new features to propose, please create a pull request. Your contributions can help enhance the project and make it even more enjoyable for everyone.
 
 ## Acknowledgments
 
