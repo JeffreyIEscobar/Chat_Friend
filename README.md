@@ -31,7 +31,7 @@ openai.api_key = "INPUT_API_KEY_HERE"
 
 ## Contributing
 
-Feel free to make this project better! Contributions are welcomed and encouraged. If you have any improvements, bug fixes, or new features to propose, please create a pull request. Your contributions can help enhance the project and make it even more enjoyable for everyone.
+Contributions are welcome! If you'd like to enhance or customize this application, feel free to fork this repository and submit a pull request.
 
 ## Acknowledgments
 
